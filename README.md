@@ -1,2 +1,16 @@
-# QR code scanner and generator 
- This app will scan any of the qr code and will generate you your own qr code  this will also maintain a history for you and you can scan the qr image from your gallery as well
+# qrcode_scanner
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
